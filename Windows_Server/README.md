@@ -24,16 +24,25 @@
  - Input your preferred name
  - Select your downloaded Windows server ISO image from the specific folder on your host machine
  - Input fields such as edition, type, and version will be auto-inputted
+ - Checked Skip Unattended Installation
 
-  <img width="791" height="553" alt="image" src="https://github.com/user-attachments/assets/47c198a7-1e72-4d5e-8bb1-94e72b2d4923" />
+  <img width="791" height="550" alt="image" src="https://github.com/user-attachments/assets/c2f8a8f7-fb58-4b3b-b50c-a07699cf4106" />
+
 
  **Hardware**
  - Minimum of 2 GB for a server with desktop experience
  - 1.4-GHz 64-bit processor (CPU)
 
-<img width="792" height="553" alt="image" src="https://github.com/user-attachments/assets/4376bdec-b82e-463d-8863-8d84ecd9253c" />
+<img width="791" height="553" alt="image" src="https://github.com/user-attachments/assets/f8d8cb1d-a6d5-4a6d-9fbf-4fb54658abc4" />
+
 
  **Hard Disk**
  - Select "Create a Virtual Hard Disk Now"
  - Choose your preferred folder for the hard disk file location
  - A minimum of 32 GB of disk space storage is required
+
+<img width="792" height="555" alt="image" src="https://github.com/user-attachments/assets/21d6b0ef-642b-4c60-a378-6931f744e643" />
+
+### Step 3
+
+Click the Finish button to create your VM <img width="268" height="39" alt="image" src="https://github.com/user-attachments/assets/d249ec64-5fa8-40a5-a0fb-d1f9a0bacafa" />
