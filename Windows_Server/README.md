@@ -77,5 +77,8 @@
 
 <img width="1029" height="710" alt="install now server" src="https://github.com/user-attachments/assets/a5dfdfd3-f9cf-4b03-8948-8dc1b8813548" />
 
+- Select the Windows server 2022 Standard Evaluation [Desktop Experience] (For GUI)
+
+<img width="1028" height="721" alt="deskstop experience" src="https://github.com/user-attachments/assets/85437842-5a91-4181-b090-d5cb685292ed" />
 
 
