@@ -71,14 +71,19 @@
 
 - Begin the setup of your server by selecting your preferred options and clicking the next button
 
-<img width="1026" height="705" alt="window server install guide" src="https://github.com/user-attachments/assets/79375a06-c58f-46e7-856a-2de62377f656" />
+<p>
+  <img width="1026" height="705" alt="window server install guide" src="https://github.com/user-attachments/assets/79375a06-c58f-46e7-856a-2de62377f656" /> 
+</p>
 
 - Click on "install now."
 
+<p>
 <img width="1029" height="710" alt="install now server" src="https://github.com/user-attachments/assets/a5dfdfd3-f9cf-4b03-8948-8dc1b8813548" />
+</p>
 
 - Select the Windows server 2022 Standard Evaluation [Desktop Experience] (For GUI)
 
+<p>
 <img width="1028" height="721" alt="deskstop experience" src="https://github.com/user-attachments/assets/85437842-5a91-4181-b090-d5cb685292ed" />
-
+</p>
 
