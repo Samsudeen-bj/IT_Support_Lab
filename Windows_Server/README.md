@@ -45,4 +45,11 @@
 
 ### Step 3
 
-Click the Finish button to create your VM <img width="268" height="39" alt="image" src="https://github.com/user-attachments/assets/d249ec64-5fa8-40a5-a0fb-d1f9a0bacafa" />
+- Click the Finish button to create your VM
+<img width="268" height="39" alt="image" src="https://github.com/user-attachments/assets/d249ec64-5fa8-40a5-a0fb-d1f9a0bacafa" />
+
+
+- Full information regarding your created VM should look like this:
+<img width="942" height="669" alt="image" src="https://github.com/user-attachments/assets/618a94cb-d4c1-4beb-ba06-6f16d098910e" />
+
+- Click on <img width="56" height="58" alt="image" src="https://github.com/user-attachments/assets/c80a15cb-a3c6-4911-ae00-83f843b7d597" /> to begin installation
